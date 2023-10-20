@@ -1,0 +1,37 @@
+.conteiner {
+  display: flex;
+}
+.img {
+  margin-right: 50px;
+}
+.title {
+  font-size: 26px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+.score {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+.overview {
+  margin: 5px;
+  font-size: 20px;
+}
+.text {
+  font-size: 16px;
+  color: rgb(136, 136, 136);
+  margin-bottom: 15px;
+}
+.Genres {
+  margin: 5px;
+  font-size: 20px;
+}
+.list {
+  font-size: 16px;
+  display: flex;
+  gap: 18px;
+  padding: 0px;
+  border-radius: 20px;
+  color: rgb(136, 136, 136);
+  margin-bottom: 12px;
+}

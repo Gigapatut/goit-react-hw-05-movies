@@ -1,0 +1,16 @@
+.Item:not(:last-child) {
+  margin-bottom: 30px;
+}
+.title:not(:last-child) {
+  margin-bottom: 20px;
+}
+.title {
+  font-size: 30px;
+}
+.Item {
+  background: var(--white, #efefef);
+}
+.text { 
+  line-height: 1, 8;
+  letter-spacing: 0.4px;
+}
